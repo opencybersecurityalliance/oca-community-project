@@ -18,5 +18,5 @@ follow the [code of conduct](CODE_OF_CONDUCT.md).
 
 # Governance
 
-Please see [our Governance document for more details](### link)
+Please see [our Governance document for more details](https://github.com/opencybersecurityalliance/oca-community-project/blob/main/COMMUNITY-GOVERNANCE.md).
 
