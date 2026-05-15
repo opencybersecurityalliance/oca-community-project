@@ -140,6 +140,6 @@ Inactive infrastructure may be retired at OASIS discretion following community n
 
 This governance document may be updated by OASIS to reflect evolving needs, provided that reasonable notice is given to the community. Continued participation constitutes acceptance of the updated terms.
 
-##  13\. Effective Date - TBC
+##  13\. 31 March 2026
 
 This Governance Document becomes effective upon approval by the OASIS Board of Directors and supersedes references to the former OASIS Open Project charter for activities conducted under the Open Cybersecurity Alliance Community.
